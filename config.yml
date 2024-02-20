@@ -1,0 +1,5 @@
+settings:
+  database: 'data.database'
+  hyper-v:
+    storage:
+      vhd: 'virtual hard disks'
